@@ -1,0 +1,62 @@
+
+body {
+    font-family:  Open Sans, sans-serif;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 1.5;
+    color: #f2f9ff;
+    background-color: #535760;
+}
+
+header {
+    margin: 3em;
+}
+
+footer {
+    margin: 3em;
+    font-size: 90%;
+}
+
+p {
+    margin: 2em 25%;
+}
+
+hr {
+    width: 50%;
+}
+
+a {
+    color: #f2f9ff;
+    outline: none;
+    transition: all .5s;
+}
+
+a:hover {
+    text-shadow: 0 0 10px #000000;
+    transition: all .5s;
+}
+
+a:active {
+    text-shadow: 0 0 3px #f2f9ff;
+    transition: all .5s;
+}
+
+#avatar {
+    border-radius: 50%;
+    height: 8em;
+    margin: 2em;
+    border: 6px solid #f2f9ff;
+}
+
+.about {
+    margin: 64px;
+}
+
+.social {
+    font-size: 3em;
+    margin: 1.5em;
+}
+
+.social > a {
+    margin: 3px;
+}
