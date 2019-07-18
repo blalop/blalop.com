@@ -1,6 +1,6 @@
 
 body {
-    font-family:  Open Sans, sans-serif;
+    font-family: Helvetica, sans-serif;
     margin: 0 auto;
     text-align: center;
     line-height: 1.5;
@@ -10,6 +10,20 @@ body {
 
 header {
     margin: 3em;
+}
+
+section {
+    margin: 4em;
+}
+
+
+nav {
+    font-size: 3em;
+    margin: 1.5em;
+}
+
+nav > a {
+    margin: 3px;
 }
 
 footer {
@@ -46,17 +60,4 @@ a:active {
     height: 8em;
     margin: 2em;
     border: 6px solid #f2f9ff;
-}
-
-.about {
-    margin: 64px;
-}
-
-.social {
-    font-size: 3em;
-    margin: 1.5em;
-}
-
-.social > a {
-    margin: 3px;
 }
