@@ -1,4 +1,4 @@
-# blalop.com
+# blalop.me
 
 Personal & professional website.
 
